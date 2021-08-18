@@ -1,2 +1,2 @@
-# JK-MELODY
-Учебный проект Glo Academy
+# JK-MELODY-Учебный проект Glo Academy
+## Проект исполни: Максим Ильясевич
